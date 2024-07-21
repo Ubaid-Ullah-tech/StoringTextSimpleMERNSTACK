@@ -1,0 +1,20 @@
+.footer-container {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  .logo-image {
+    width: 60px; /* Adjust the width as needed */
+    height: 60px; /* Ensure height matches width for a perfect circle */
+    border-radius: 50%; /* Makes the image circular */
+    margin-bottom: 20px;
+    object-fit: cover; /* Ensures the image covers the entire container */
+    border: 2px solid #ccc; /* Optional: Add a border for better visibility */
+
+  }
+  

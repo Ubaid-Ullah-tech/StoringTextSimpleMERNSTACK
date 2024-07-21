@@ -1,0 +1,24 @@
+.container{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 20%;
+}
+
+ .btn-primary{
+    display: flex;
+    margin-bottom: 30%;
+ }
+.textarea{
+    max-width: 50%;
+    max-height: 30%;
+}
+.textarea h1{
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+.textarea textarea{
+    padding: 10px;
+}
